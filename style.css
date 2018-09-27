@@ -1,0 +1,37 @@
+body {
+    background: royalblue;
+
+} 
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+
+img {
+    height: 100px;
+    width: 100px;
+}
+.nav {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 70vh;
+
+
+}
+.navItem{
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+
+.navContent{
+    font-family: Helvetica;
+}
